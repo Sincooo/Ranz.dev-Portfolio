@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ranz.dev Ideas Organizer"
+  short_description: "Scope portfolio briefs and project handoffs"
+policy:
+  allow_implicit_invocation: true

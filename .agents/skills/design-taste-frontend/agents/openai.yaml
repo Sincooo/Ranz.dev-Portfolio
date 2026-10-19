@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ranz.dev Design Taste"
+  short_description: "Refine visuals within the supplied portfolio design"
+policy:
+  allow_implicit_invocation: true

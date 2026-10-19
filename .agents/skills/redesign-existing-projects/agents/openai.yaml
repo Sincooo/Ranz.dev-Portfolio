@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ranz.dev Audit and Refinement"
+  short_description: "Audit portfolio issues and scoped refinements"
+policy:
+  allow_implicit_invocation: true
