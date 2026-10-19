@@ -1,0 +1,31 @@
+# Local environment values; retain deliberately sanitized examples.
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Private key files.
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Dependencies and local package-manager caches.
+node_modules/
+.pnpm-store/
+.npm/
+
+# Generated application, test, and build output.
+.next/
+out/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+
+# Logs and local operating-system files.
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini

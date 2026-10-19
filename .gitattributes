@@ -1,0 +1,25 @@
+* text=auto eol=lf
+
+# Windows command scripts use their native line endings.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Preserve exact binary asset bytes.
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
+*.gif -text
+*.avif -text
+*.ico -text
+*.woff -text
+*.woff2 -text
+*.ttf -text
+*.otf -text
+*.mp4 -text
+*.webm -text
+*.pdf -text
+*.zip -text
+
+# Official SVG sources also retain their supplied bytes.
+*.svg -text
