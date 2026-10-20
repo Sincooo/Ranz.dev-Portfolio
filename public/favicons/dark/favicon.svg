@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Ranz.dev favicon</title>
+  
+  <rect class="tile" x="3" y="3" width="506" height="506" rx="110" fill="#0D0F0F" stroke="#282C2B" stroke-width="6"/>
+  <path class="mark" fill="#FFFFFF" d="M 104.065 80.344 L 164.665 80.344 C 180.426 80.344 193.104 91.501 193.104 107.17 C 193.104 122.984 181.931 134.795 162.491 134.834 L 202.439 178.108 L 179.767 178.108 C 177.896 178.108 176.684 177.318 175.265 175.342 L 121.644 117.544 L 162.438 117.544 C 169.604 117.544 173.356 113.697 173.356 107.368 C 173.356 101.242 168.503 96.889 162.438 96.889 L 125.881 96.889 C 120.326 96.889 116.69 94.326 113.054 90.374 Z" transform="translate(-317.28903979 -227.41195844) scale(3.74082583)"/>
+</svg>
